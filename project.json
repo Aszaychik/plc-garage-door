@@ -37,7 +37,8 @@
           "UP_LIMIT",
           "DOWN_LIMIT",
           "DOOR_POSITION",
-          "GARAGE_LAMP"
+          "POWER_LAMP",
+          "WARNING_LAMP"
         ]
       }
     }
