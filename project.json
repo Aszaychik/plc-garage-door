@@ -34,6 +34,9 @@
           "DOWN_BUTTON",
           "CONTRACTOR_UP",
           "CONTRACTOR_DOWN",
+          "UP_LIMIT",
+          "DOWN_LIMIT",
+          "DOOR_POSITION",
           "GARAGE_LAMP"
         ]
       }
