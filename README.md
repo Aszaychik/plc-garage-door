@@ -8,9 +8,9 @@ Developed as a learning project to explore PLC programming concepts — from bas
 
 | Step | Feature                                           | Status |
 | ---- | ------------------------------------------------- | ------ |
-| 1    | Power indicator lamp                              | 🔄     |
-| 2    | Open door (UP contactor + limit switch)           | ⬜     |
-| 3    | Close door (DOWN contactor + limit switch)        | ⬜     |
+| 1    | Power indicator lamp                              | ✅     |
+| 2    | Open door (UP contactor + limit switch)           | 🔄     |
+| 3    | Close door (DOWN contactor + limit switch)        | 🔄     |
 | 4    | Contactor interlock (UP/DOWN never simultaneous)  | ⬜     |
 | 5    | Obstacle photo-eye (auto-reverse on obstruction)  | ⬜     |
 | 6    | Warning lamp (2 Hz flash while door is moving)    | ⬜     |
