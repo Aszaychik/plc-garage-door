@@ -30,8 +30,10 @@
     "debugVariables": {
       "pous": {
         "main": [
-          "POWER_ON",
-          "POWER_OFF",
+          "UP_BUTTON",
+          "DOWN_BUTTON",
+          "CONTRACTOR_UP",
+          "CONTRACTOR_DOWN",
           "GARAGE_LAMP"
         ]
       }
