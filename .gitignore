@@ -1,0 +1,13 @@
+# OpenPLC build output
+build/
+*.bin
+*.elf
+*.hex
+
+# Editor temp files
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
